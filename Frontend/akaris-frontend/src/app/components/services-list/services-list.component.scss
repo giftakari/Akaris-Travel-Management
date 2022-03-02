@@ -2,9 +2,14 @@
 
 
 .services-list{
-    margin: 2rem ;
+    margin: 2rem auto;
     padding: 1rem;
-    border: 0.0625rem solid;
+    border: 0.0625rem solid #3662d8;
+    max-width: 70%;
+    border-radius: .4rem;
    
 
+}
+.services-list-date{
+    padding: 1rem;
 }
