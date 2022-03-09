@@ -1,5 +1,13 @@
 # Akaris
 
+The End goal of this project is to build travel managemenent application with functionalities similar  to Expedia.com, Price.com etc 
+
+
+
+![Screen Shot 2022-03-09 at 2 30 53 pm](https://user-images.githubusercontent.com/37270379/157373259-4c93dad4-9c78-456b-95a3-8955245e85dc.png)
+
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.1.
 
 ## Development server
